@@ -22,7 +22,9 @@ def main():
     x.sleep(30)
     x.close()
     click_num -= 1
-    
+   
+  print("clicked " + url + " " + click_num + " times.")
+
     
 if __name__ == "__main__":
     main()
