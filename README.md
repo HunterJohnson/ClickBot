@@ -1,3 +1,3 @@
 # ClickBot - pageview generator
 
-# tkinter - pygui
+---> tkinter / pygui
